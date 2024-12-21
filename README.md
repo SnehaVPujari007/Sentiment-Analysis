@@ -1,4 +1,4 @@
-# Sentimental-Analysis
+# Sentiment-Analysis
 
 This project involves performing sentiment analysis on textual data to classify the sentiment expressed in reviews, comments, or any unstructured text. Sentiment analysis helps understand the opinions, attitudes, and emotions of the users from the text data.
 
